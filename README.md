@@ -12,3 +12,9 @@ Using D3 techniques, a scatter plot was created that represents each state with 
 
 >![8-tooltip](8-tooltip.gif)
 >![7-animated-scatter](7-animated-scatter.gif)
+
+
+---
+###### Copyright
+
+© 2019 realGenius, Inc.
